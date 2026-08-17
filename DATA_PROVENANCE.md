@@ -1,8 +1,8 @@
 # Data Provenance 
 
-This document describes the sources used to compile the dataset 'peloponnesian_war_dam_spreadsheet.csv'.
+This document describes the sources used to compile the datasets 'peloponnesian_war_dam_spreadsheet.csv' and 'dam_dansk_monarki.csv'.
 
-## sources
+## sources - Peloponnesian War
 
 ### Spence et al. (2016)
 
@@ -23,6 +23,14 @@ Used for information concerning battles, participants and locations.
 Xenophon *Hellenica*.
 
 used for information concerning battles, participants and locations for the last three years of the war.
+
+## Sources - Danish Monarchy
+
+## Kongehuset.dk
+
+All names and dates in the dataset are in line with the information given by the Danish royal family's official website.
+
+(https://www.kongehuset.dk/monarkiet-i-danmark/kongerakken)
 
 ## Methodology
 
