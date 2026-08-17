@@ -1,0 +1,37 @@
+# Data Provenance 
+
+This document describes the sources used to compile the dataset 'peloponnesian_war_dam_spreadsheet.csv'.
+
+## sources
+
+### Spence et al. (2016)
+
+Spence, I. G., Kelly, D. H., Phang, S. E., & Londey, P. (eds.).
+*Conflict in Ancient Greece and Rome: The Definitive Political,
+Social, and Military Encyclopedia*. ABC-CLIO, 2016.
+
+Used primarily for establishing dates for individual battles.
+
+### Thucydides
+
+Thucydides *History of the Peloponnesian War*.
+
+Used for information concerning battles, participants and locations.
+
+### Xenophon
+
+Xenophon *Hellenica*.
+
+used for information concerning battles, participants and locations for the last three years of the war.
+
+## Methodology
+
+Information in the dataset was compiled from multiple primary and
+secondary sources. Different fields within an individual record may
+therefore originate from different sources.
+
+Where possible, the source used to establish a particular piece of
+information is identified in this document.
+
+The dataset represents the author's own compilation, organisation,
+standardisation, and interpretation of information from these sources.
