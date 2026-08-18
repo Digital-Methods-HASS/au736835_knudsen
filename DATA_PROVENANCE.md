@@ -22,7 +22,7 @@ Used for information concerning battles, participants and locations.
 
 Xenophon *Hellenica*.
 
-used for information concerning battles, participants and locations for the last three years of the war.
+used for information concerning battles, participants and locations for the last years of the war.
 
 ## Sources - Danish Monarchy
 
